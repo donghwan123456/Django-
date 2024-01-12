@@ -1,8 +1,9 @@
 ### Hi there 👋
-![스크린샷(4)](https://github.com/donghwan123456/donghwan123456/assets/156268521/e615f924-b11b-40ff-9c12-d4daacd73796)
 
 <!--
 **donghwan123456/donghwan123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![스크린샷(4)](https://github.com/donghwan123456/donghwan123456/assets/156268521/e615f924-b11b-40ff-9c12-d4daacd73796)
 
 Here are some ideas to get you started:
 
